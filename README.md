@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+##
+
+Here is link [to my LinkedIn] ()
+
+![an image of a cat](https://i.natgeofe.com/n/46b07b5e-1264-42e1-ae4b-8a021226e2d0/domestic-cat_thumb.jpg)
 
 <!--
 **MFisenko/MFisenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
